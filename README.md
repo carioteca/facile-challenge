@@ -1,27 +1,28 @@
-<b> Instalações Necessárias</b></br>
-No terminal Visual Studio Code ou no CMD, cole os comandos abaixo</br>
+<h1> Instalações Necessárias</h1></br>
+No terminal Visual Studio Code ou no CMD, cole os comandos abaixo.</br>
+</br>
 
-#Nest Js</br>
+#Instalação do NestJs</br>
 enpm i -g @nestjs/cli
 
-#TypeOrm</br>
-<p> No Projeto é utilizado o TypeOrm para a parte do banco de dados</p>
+#Instalação do TypeOrm</br>
 npm add typeorm reflect-metadata pg
 
+<br/>
 <hr/>
 <br/>
-<b> Instalação Postgres</b></br>
+<h2> Instalação Postgres</h2></br>
 Link do Programa<br/>
 https://www.postgresql.org/download/</br>
 </br>
-1º Selecione o sistema operacional</br>
+1º  Selecione o sistema operacional
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 
 
-2º Clique em Download the installer</br>
+2º  Clique em Download the installer</br>
 &nbsp;
 &nbsp;
 ![image](https://user-images.githubusercontent.com/21370452/147018229-13260da0-66fd-4333-80e1-a02df79ec0b4.png)
