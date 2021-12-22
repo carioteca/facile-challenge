@@ -52,7 +52,7 @@ https://www.pgadmin.org/download/</br>
 Mude os campos do TypeOrm conforme as suas configurações Postegres foram definidas.</br></br>
 &nbsp;
 &nbsp;
-![image](https://user-images.githubusercontent.com/21370452/147023220-1602a367-ef73-4399-b040-9d2765902d07.png)
+<img href="https://user-images.githubusercontent.com/21370452/147023220-1602a367-ef73-4399-b040-9d2765902d07.png">
 
 <h2>Final</h2></br> 
 No Terminal do Visual Studio Code, cole o comando abaixo para executar:</br>
