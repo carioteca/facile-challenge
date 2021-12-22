@@ -15,7 +15,7 @@ npm add typeorm reflect-metadata pg
 Link do Programa<br/>
 https://www.postgresql.org/download/</br>
 </br>
-1º  Selecione o sistema operacional
+1º  Selecione o sistema operacional.
 </br></br>
 2º  Clique em download the installer</br>
 </br>
@@ -29,7 +29,7 @@ https://www.postgresql.org/download/</br>
 Link do Programa<br/>
 https://www.pgadmin.org/download/</br>
 </br>
-1º Selecione o sistema operacional
+1º Selecione o sistema operacional.
 </br>
 </br>
 
@@ -37,10 +37,10 @@ https://www.pgadmin.org/download/</br>
 2º  Instale o programa.
 </br>
 </br>
-3º Abra o PG admin
+3º Abra o PG admin.
 </br>
 </br>
-4º Crie um banco de dados de dados</br>
+4º Crie um banco de dados de dados.</br>
 </br>
 ![image](https://user-images.githubusercontent.com/21370452/147018720-4a42d06d-597a-462b-823c-aea1f45574e7.png)
 
@@ -48,13 +48,13 @@ https://www.pgadmin.org/download/</br>
 <hr/>
 <br/>
 
-<b> Configuração do Arquivo de conexão com banco de dados </b></br>
-Mude os campos do TypeOrm conforme as suas configurações Postegres foram definidas</br></br>
+<h2> Configuração do Arquivo de conexão com banco de dados </h2></br>
+Mude os campos do TypeOrm conforme as suas configurações Postegres foram definidas.</br></br>
 &nbsp;
 &nbsp;
-![image](https://user-images.githubusercontent.com/21370452/147018953-47b6b864-4943-4708-8e1b-920f7d49b0ea.png)
+![image](https://user-images.githubusercontent.com/21370452/147023220-1602a367-ef73-4399-b040-9d2765902d07.png)
 
-#Final</br> 
+<h2>Final</h2></br> 
 No Terminal do Visual Studio Code, cole o comando abaixo para executar:</br>
 npm run start:dev</br>
 
