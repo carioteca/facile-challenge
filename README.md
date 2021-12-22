@@ -23,7 +23,7 @@ https://www.postgresql.org/download/</br>
 2º Clique em Download the installer</br>
 &nbsp;
 &nbsp;
-![image](https://user-images.githubusercontent.com/21370452/147018229-13260da0-66fd-4333-80e1-a02df79ec0b4.png)
+![image](https://user-images.githubusercontent.com/21370452/147018229-13260da0-66fd-4333-80e1-a02df79ec0b4.png)=300x100
 
 3º Agora, abra o programa, clique em next</br>
 
