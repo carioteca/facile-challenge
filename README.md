@@ -14,9 +14,13 @@ npm add typeorm reflect-metadata pg
 https://www.postgresql.org/download/</br>
 
 1º Selecione o sistema operacional</br>
+&nbsp
+&nbsp
 ![image](https://user-images.githubusercontent.com/21370452/147018154-8c639ed0-940b-4e81-9d2b-748ee55b8930.png)
 
 2º Clique em Download the installer</br>
+&nbsp
+&nbsp
 ![image](https://user-images.githubusercontent.com/21370452/147018229-13260da0-66fd-4333-80e1-a02df79ec0b4.png)
 
 3º Agora, abra o programa, clique em next</br>
@@ -27,12 +31,16 @@ https://www.postgresql.org/download/</br>
 https://www.pgadmin.org/download/</br>
 
 1º Selecione o sistema operacional</br></br>
+&nbsp
+&nbsp
 ![image](https://user-images.githubusercontent.com/21370452/147018437-79607557-85d6-4c11-8fe3-1c139b6048e7.png)
 
 2º Clique em next</br>
 
 3º Abra o PG admin</br>
 Crie um banco de dados de dados</br></br>
+&nbsp
+&nbsp
 ![image](https://user-images.githubusercontent.com/21370452/147018720-4a42d06d-597a-462b-823c-aea1f45574e7.png)
 
 
@@ -41,6 +49,8 @@ Crie um banco de dados de dados</br></br>
 
 <b> Configuração do Arquivo de conexão com banco de dados </b></br>
 Mude os campos do TypeOrm conforme está na sua maquina</br></br>
+&nbsp
+&nbsp
 ![image](https://user-images.githubusercontent.com/21370452/147018953-47b6b864-4943-4708-8e1b-920f7d49b0ea.png)
 
 #Final</br> 
