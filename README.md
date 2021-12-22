@@ -1,73 +1,45 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
-</p>
+<b> Instalações Necessárias</b>
+No terminal Visual Studio Code ou no CMD, cole os comandos abaixo
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+# Nest Js #
+enpm i -g @nestjs/cli
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+#TypeOrm#
+<p> No Projeto é utilizado o TypeOrm para a parte do banco de dados</p>
+npm add typeorm reflect-metadata pg
 
-## Description
+<b> Instalação Postgres</b>
+https://www.postgresql.org/download/
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+1º Selecione o sistema operacional
+![image](https://user-images.githubusercontent.com/21370452/147018154-8c639ed0-940b-4e81-9d2b-748ee55b8930.png)
 
-## Installation
+2º Clique em Download the installer 
+![image](https://user-images.githubusercontent.com/21370452/147018229-13260da0-66fd-4333-80e1-a02df79ec0b4.png)
 
-```bash
-$ npm install
-```
+3º Agora, abra o programa, clique em next
 
-## Running the app
+<b> Instalação PG admin</b>
+https://www.pgadmin.org/download/
 
-```bash
-# development
-$ npm run start
+1º Selecione o sistema operacional
+![image](https://user-images.githubusercontent.com/21370452/147018437-79607557-85d6-4c11-8fe3-1c139b6048e7.png)
 
-# watch mode
-$ npm run start:dev
+2º Clique em next
 
-# production mode
-$ npm run start:prod
-```
+3º Abra o PG admin
+Crie um banco de dados de dados
+![image](https://user-images.githubusercontent.com/21370452/147018720-4a42d06d-597a-462b-823c-aea1f45574e7.png)
 
-## Test
 
-```bash
-# unit tests
-$ npm run test
+<b> Configuração do Arquivo de conexão com banco de dados </b>
+Mude os campos do TypeOrm conforme está na sua maquina
+![image](https://user-images.githubusercontent.com/21370452/147018953-47b6b864-4943-4708-8e1b-920f7d49b0ea.png)
 
-# e2e tests
-$ npm run test:e2e
+#Final 
+No Terminal do Visual Studio Code, cole o comando abaixo para executar:
+npm run start:dev
 
-# test coverage
-$ npm run test:cov
-```
+No Projeto foi utilizado o Postman para execução das requisições:
+https://www.postman.com
 
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
