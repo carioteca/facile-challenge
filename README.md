@@ -8,6 +8,8 @@ enpm i -g @nestjs/cli
 <p> No Projeto é utilizado o TypeOrm para a parte do banco de dados</p></br>
 npm add typeorm reflect-metadata pg
 
+<hr/>
+<br/>
 <b> Instalação Postgres</b></br>
 https://www.postgresql.org/download/</br>
 
