@@ -18,7 +18,7 @@ https://www.postgresql.org/download/</br>
 &nbsp;
 &nbsp;
 &nbsp;
-![image](https://user-images.githubusercontent.com/21370452/147018154-8c639ed0-940b-4e81-9d2b-748ee55b8930 =250px)
+![image](https://user-images.githubusercontent.com/21370452/147018154-8c639ed0-940b-4e81-9d2b-748ee55b8930 =250x)
 
 2º Clique em Download the installer</br>
 &nbsp;
