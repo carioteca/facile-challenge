@@ -19,6 +19,8 @@ https://www.postgresql.org/download/</br>
 
 3º Agora, abra o programa, clique em next</br>
 
+<hr/>
+<br/>
 <b> Instalação PG admin</b></br>
 https://www.pgadmin.org/download/</br>
 
@@ -31,6 +33,9 @@ https://www.pgadmin.org/download/</br>
 Crie um banco de dados de dados</br>
 ![image](https://user-images.githubusercontent.com/21370452/147018720-4a42d06d-597a-462b-823c-aea1f45574e7.png)
 
+
+<hr/>
+<br/>
 
 <b> Configuração do Arquivo de conexão com banco de dados </b></br>
 Mude os campos do TypeOrm conforme está na sua maquina</br>
