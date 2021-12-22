@@ -14,8 +14,8 @@ npm add typeorm reflect-metadata pg
 https://www.postgresql.org/download/</br>
 
 1º Selecione o sistema operacional</br>
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
 ![image](https://user-images.githubusercontent.com/21370452/147018154-8c639ed0-940b-4e81-9d2b-748ee55b8930.png)
 
 2º Clique em Download the installer</br>
