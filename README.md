@@ -11,6 +11,7 @@ npm add typeorm reflect-metadata pg
 <hr/>
 <br/>
 <b> Instalação Postgres</b></br>
+Link do Programa<br/>
 https://www.postgresql.org/download/</br>
 </br>
 1º Selecione o sistema operacional</br>
