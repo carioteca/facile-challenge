@@ -1,7 +1,7 @@
 <b> Instalações Necessárias</b>
 No terminal Visual Studio Code ou no CMD, cole os comandos abaixo
 
-# Nest Js #
+#Nest Js
 enpm i -g @nestjs/cli
 
 #TypeOrm#
