@@ -45,7 +45,7 @@ https://www.pgadmin.org/download/</br>
 
 <br/>
 
-<h2> Configuração do Arquivo de conexão com banco de dados </h2></br>
+<h2> Configuração do arquivo de conexão com banco de dados </h2></br>
 Mude os campos do TypeOrm conforme as suas configurações Postegres foram definidas.</br></br>
 &nbsp;
 &nbsp;
