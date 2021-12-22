@@ -43,6 +43,7 @@ https://www.pgadmin.org/download/</br>
 &nbsp;
 &nbsp;
 3º Abra o PG admin</br>
+</br>
 Crie um banco de dados de dados</br></br>
 &nbsp;
 &nbsp;
