@@ -32,6 +32,7 @@ https://www.postgresql.org/download/</br>
 
 <br/>
 <b> Instalação PG admin</b></br>
+</br>
 https://www.pgadmin.org/download/</br>
 
 1º Selecione o sistema operacional</br></br>
