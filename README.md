@@ -18,7 +18,7 @@ https://www.postgresql.org/download/</br>
 &nbsp;
 &nbsp;
 &nbsp;
-![image](https://user-images.githubusercontent.com/21370452/147018154-8c639ed0-940b-4e81-9d2b-748ee55b8930)
+
 
 2º Clique em Download the installer</br>
 &nbsp;
@@ -28,6 +28,7 @@ https://www.postgresql.org/download/</br>
 3º Agora, abra o programa, clique em next</br>
 
 <hr/>
+
 <br/>
 <b> Instalação PG admin</b></br>
 https://www.pgadmin.org/download/</br>
