@@ -1,4 +1,16 @@
-<h1> Instalações Necessárias</h1></br>
+<h1>Apresentação</h1>
+
+<p>O projeto foi desenvolvido para o processo seletivo da Facile Sistema, foi desenvolvido uma aplicação com framework Nest JS e um banco </p>
+<p>dos de dados local em Postegres. 
+
+<br/>
+  
+<b> O sistema consiste em: </b>
+<li> cadastrar uma mensagem e encriptar;</li>
+<li>consultar o id e desencriptar a mensagem para leitura;</li>
+  
+  
+<h2> Instalações Necessárias</h2></br>
 No terminal Visual Studio Code ou no CMD, cole os comandos abaixo.</br>
 </br>
 
