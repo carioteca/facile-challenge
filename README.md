@@ -7,8 +7,9 @@
   
 <b> O sistema consiste em: </b>
 <li> cadastrar uma mensagem e encriptar;</li>
-<li>consultar o id e desencriptar a mensagem para leitura;</li>
-  
+<li>consultar o id e desencriptar a mensagem para leitura.</li>
+ 
+<br/>
   
 <h2> Instalações Necessárias</h2></br>
 No terminal Visual Studio Code ou no CMD, cole os comandos abaixo.</br>
