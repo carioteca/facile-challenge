@@ -59,7 +59,7 @@ https://www.pgadmin.org/download/</br>
 <br/>
 
 <h2> Configurações do arquivo de conexão com banco de dados </h2></br>
-Mude os campos do arquivo <b> typeorm.config.ts </b> conforme as suas configurações Postgres foram definidas.</br></br>
+Mude os campos do arquivo <b> typeorm.config.ts </b> conforme as suas configurações do Postgres foram definidas.</br></br>
 &nbsp;
 &nbsp;
 <img src="https://user-images.githubusercontent.com/21370452/147023220-1602a367-ef73-4399-b040-9d2765902d07.png">
