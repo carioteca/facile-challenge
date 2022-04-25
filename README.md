@@ -1,7 +1,6 @@
 <h1>Apresentação</h1>
 
-<p>O projeto foi desenvolvido para o processo seletivo da Facile Sistema, foi desenvolvido uma aplicação com framework Nest JS e um banco </p>
-<p>dos de dados local em Postegres. 
+<p>O projeto foi desenvolvido para o processo seletivo da Facile Sistema, foi desenvolvido uma aplicação com framework Nest JS e um banco dos de dados local em Postegres. 
 
 <br/>
   
