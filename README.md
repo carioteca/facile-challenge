@@ -15,7 +15,7 @@ No terminal Visual Studio Code ou no CMD, cole os comandos abaixo.</br>
 </br>
 
 #Instalação do NestJs</br>
-enpm i -g @nestjs/cli
+npm i -g @nestjs/cli
 
 #Instalação do TypeOrm</br>
 npm add typeorm reflect-metadata pg
